@@ -70,11 +70,31 @@ Este projeto inclui vários testes para verificar a precisão do algoritmo em di
 - Testes de casos degenerados como pontos coincidentes e colineares.
 - Testes com grandes conjuntos de pontos.
 
-Para rodar os testes:
+Para rodar os testes em um jupyter notebook:
 
 ```bash
-python algumacoisa.py
+jupyter execute min_circle.ipynb
 ```
+
+Caso voce seja iniciante, não tem problema, segue esse tutorial aqui para **Linux**: 
+
+**1.**: 
+```bash
+# crie um arquivo com o nome min_circle.py
+touch min_circle.py
+
+# abre o arquivo e cola o código dentro do arquivo
+open min_circle.py
+CTRL+V
+
+#salva o arquivo
+CRTL+S
+
+#executa o código usando
+python min_circle.py
+```
+
+Caso queira alterar o código, é possível alterar na chamada da função de testes. Depois, só partir pro abraço xD. 
 
 ## Contribuição
 
