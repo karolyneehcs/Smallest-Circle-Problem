@@ -38,7 +38,7 @@ O projeto contém as seguintes funções principais:
 Clone este repositório:
 
 ```bash
-git clone 
+git clone https://github.com/karolyneehcs/Smallest-Circle-Problem.git
 ```
 2. Instale as dependências necessárias (se houver).
 
