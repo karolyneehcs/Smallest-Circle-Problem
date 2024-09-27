@@ -78,7 +78,6 @@ jupyter execute min_circle.ipynb
 
 Caso voce seja iniciante, não tem problema, segue esse tutorial aqui para **Linux**: 
 
-**1.**: 
 ```bash
 # crie um arquivo com o nome min_circle.py
 touch min_circle.py
